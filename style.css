@@ -1,0 +1,55 @@
+
+/* BackGround */
+.corpo {
+
+    position: absolute;
+    top:50%;
+    left:65%;
+    transform: translate(-50%,-50%);
+    border-radius: 30px;
+}
+
+#back {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    padding: 250px ;
+    width: 900px;
+    height: 200px;
+    border-radius: 30px;
+    background-color: red;
+    
+
+}
+
+#img {
+    width: 600px;
+   
+    position: absolute;
+    left: 60px;
+    height: 600px;
+    margin-top: -200px;
+}
+
+
+/* Button And Text Login */
+
+button {
+    background: #0066A2;
+	color: white;
+	border-style: outset;
+	border-color: #0066A2;
+	height: 50px;
+	width: 200px;
+	text-shadow: transparent;
+    cursor:pointer;
+}
+
+
+
+h1 {
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
